@@ -8,145 +8,25 @@
 }
 
 @media (max-width:1024px){
-	.titu{
-		font-size: 51px;
-		line-height: 48px;
-	    text-align: center;
-	}
-	.espac{
-		letter-spacing: 6.7px;
-	}
-	.subtitu{
-		text-align: center;
-	    padding: 0;
-	}
-	body {
-	    background: url(../img/bg.png) no-repeat 0 0 #000000;
-	    background-attachment: fixed;
-	    background-size: cover;
-	}
-	.contTextCel img {
-	    margin-bottom: 10px;
-	    width: 80%;
-	}
+	
 }
 
 @media (max-width:992px){
-	.align-left, .align-center, .align-right{
-		text-align: center;
-	}
-	.contTextCel img {
-	    width: auto;
-	}
-	.contenido {
-	    width: 90%;
-	}
+	
 }
 
 @media (max-width:767px){
-	.titu{
-		font-size: 30px;
-		line-height: 30px;
-	    text-align: center;
-	}
-	.espac{
-		letter-spacing: 0px;
-	}
-	.contLogo{
-	    padding: 0 40px;
-	}
-	.contCelu {
-	    background: rgba(0,0,0,0.1);
-	    background-size: contain;
-	    margin-bottom: 0;
-	}
-	.celu img {
-	    width: 50%;
-	}
-	.contTextCel {
-	    margin-top: 10px;
-	    margin-bottom: 0;
-	    padding: 0 20px;
-	}
-	.btn-secondary {
-	    display: block;
-	}
-	.iconsCel {
-	    margin-bottom: 20px;
-	    padding: 0 20px;
-	}
-	.btn-conte {
-	    padding: 0 20px;
-	}
-	.btn-conte:hover {
-	    opacity: 1;
-	}
-	.btn-comprar {
-	    width: 85%;
-	}
-	.contenido {
-	    font-weight: 300;
-	}
-	.btn-secondary h6{
-		display: inline-block;
-	    font-size: 10px;
-	}
-	.contText{
-		margin-bottom: 40px;
-	}
-	.footer{
-	    margin: 60px 0 0 0;
-	}
-	.modalBack{
-	    position: fixed;
-	    top: 60px;
-	    background: #000;
-	    z-index: 20;
-	    width: 100%;
-	    left: 0;
-	    padding: 0;
-	    margin: 0;
-	    height: 94vh;
-	    overflow-y: auto;
-	    overflow-x: hidden;
-	}
-	.cerrar img {
-	    width: 7%;
-	}
-	.cerrar {
-	    text-align: right;
-	    margin: 20px;
-	}
-	.solomob{display: block;}
-	.solodesk{display: none;}
-	.tv img {
-	    width: 100%;
-	    margin-bottom: 20px;
-	    margin: 0 auto;
-	}
+	
 }
 
 @media (max-width:540px){
-	.btn-comprar {
-	    width: 91%;
-	}
+	
 }
 
 @media (max-width:500px){ 
-	.btn-comprar {
-	    width: 85%;
-	}
+	
 }
 
 @media (max-width:321px){ 
-	.iconHead {
-	    display: inline-block;
-	    padding: 18px 4px;
-	}
-	.btn-comprar {
-	    width: 81%;
-	}
-	.contText {
-	    margin-bottom: 0;
-	}
+	
 }
